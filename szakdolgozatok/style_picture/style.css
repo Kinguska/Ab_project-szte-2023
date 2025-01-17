@@ -1,0 +1,12 @@
+.required-label::after {
+    content: "*";
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+strong{
+    font-weight: bold;
+    font-size: larger;
+}
+
